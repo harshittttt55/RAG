@@ -1,0 +1,57 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# ----------------------------
+# Virtual Environment
+# ----------------------------
+rag_env/
+venv/
+env/
+
+# ----------------------------
+# Byte-compiled / cache
+# ----------------------------
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+
+# ----------------------------
+# IDE / Editor settings
+# ----------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------------
+# Jupyter / IPython
+# ----------------------------
+.ipynb_checkpoints
+
+# ----------------------------
+# OS files
+# ----------------------------
+Thumbs.db
+Desktop.ini
+
+# ----------------------------
+# Environment variables
+# ----------------------------
+.env
+
+# ----------------------------
+# Streamlit / temp files
+# ----------------------------
+.streamlit/
