@@ -82,3 +82,5 @@ Or implement a “Clear History” button (future enhancement)
 Preview:
 
 image.png
+![Alt text](./image.png)
+
