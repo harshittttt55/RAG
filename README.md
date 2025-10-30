@@ -81,11 +81,8 @@ Or implement a “Clear History” button (future enhancement)
 
 Preview:
 
-image.png
-![Alt text](./image.png)
-<p align = "center">
- <img src = "https://github.com/harshittttt55/RAG/blob/master/image.png" alt = "Centered Logo" width = "200">
-</p>
+<img width="1917" height="865" alt="Image" src="https://github.com/user-attachments/assets/dae8d723-06ba-4158-a4ad-54764a906774" />
+
 
 
 
