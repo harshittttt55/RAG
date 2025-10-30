@@ -83,5 +83,9 @@ Preview:
 
 image.png
 ![Alt text](./image.png)
-![Alt text](https://github.com/harshittttt55/RAG/blob/master/image.png)
+<p align = "center">
+ <img src = "https://github.com/harshittttt55/RAG/blob/master/image.png" alt = "Centered Logo" width = "200">
+</p>
+
+
 
